@@ -1,0 +1,15 @@
+{
+    "id": "pain-refuge",
+    "title": "One Shot - Pain Refuge",
+    "description": "One Shot for PF2e ",
+    "authors": [
+      {
+        "name": "Molotgor"
+      }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+      }
+  }
