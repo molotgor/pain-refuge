@@ -1,11 +1,13 @@
 {
-    "id": "pain-refuge",
-    "title": "One Shot - Pain Refuge",
-    "description": "One Shot for PF2e ",
-    "authors": [
-      {
-        "name": "Molotgor"
-      }
-    ],
-    "version": "1.0.0"
+  "id": "pain-refuge",
+  "title": "One Shot - Pain Refuge",
+  "description": "One Shot for PF2e ",
+  "authors": [
+    {
+      "name": "Molotgor"
+    }
+  ],
+  "version": "1.0.0",
+  "url": "https://github.com/molotgor/pain-refuge",
+  "manifest": "https://raw.githubusercontent.com/molotgor/pain-refuge/master/module.json"
   }
